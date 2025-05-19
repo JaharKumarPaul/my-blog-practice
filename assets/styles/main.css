@@ -5,3 +5,9 @@
   border: 2px solid black;
   border-radius: 6px;
 }
+footer {
+  background-color: #222;
+  color: #eee;
+  padding: 20px;
+  text-align: center;
+}
