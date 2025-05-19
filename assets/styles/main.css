@@ -1,9 +1,10 @@
 .subscribe-button {
-  background-color: #007BFF;
+  background-color: #FF5722; /* orange */
   color: white;
-  padding: 10px 20px;
+  padding: 12px 24px;
   border: none;
-  border-radius: 4px;
+  border-radius: 6px;
 }
+
 
 
